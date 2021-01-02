@@ -7,12 +7,11 @@
         "fr": "Une suite office en ligne et collaborative, basée sur LibreOffice"
     },
     "version": "4.0.0~ynh2",
-    "url": "https://www.libreoffice.org/download/libreoffice-online/",
+    "url": "https://collaboraoffice.com",
     "license": "MPL-2.0",
     "maintainer": {
         "name": "rafi59",
         "email": "rafi59_dev@srvmaison.fr.nf",
-        "url": "https://collaboraoffice.com"
     },
     "requirements": {
         "yunohost": ">= 3.8.1"
@@ -51,10 +50,7 @@
                 },
                 "example": "example.com",
                 "default": ""
-
             }
-
-
         ]
     }
 }
